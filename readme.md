@@ -16,8 +16,8 @@ Import and use the `Tabs` and `TabItem` components in your Svelte project.
 
 ```svelte
 <script>
-    import Tabs from "svelte-tabs-component/Tabs.svelte";
-    import TabItem from "svelte-tabs-component/TabItem.svelte";
+    import Tabs from "svelte-best-tabs-component/Tabs.svelte";
+    import TabItem from "svelte-best-tabs-component/TabItem.svelte";
 </script>
 
 <Tabs>
@@ -55,8 +55,8 @@ The `TabItem` component represents an individual tab within the `Tabs` component
 
 ```svelte
 <script>
-    import Tabs from "svelte-tabs-component/Tabs.svelte";
-    import TabItem from "svelte-tabs-component/TabItem.svelte";
+    import Tabs from "svelte-best-tabs-component/Tabs.svelte";
+    import TabItem from "svelte-best-tabs-component/TabItem.svelte";
 </script>
 
 <Tabs activeTabValue="invoice">
