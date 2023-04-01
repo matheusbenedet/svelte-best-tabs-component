@@ -16,7 +16,7 @@
 <ul>
     {#each $items as item}
         <li class:active={$activeTabValueStore === item.value}>
-            <span type="button" on:click={() => $activeTabValueStore = item.value}>
+            <span on:click={() => $activeTabValueStore = item.value}>
                 {#if item.icon}
                     <i class={item.icon}></i>
                 {/if}
