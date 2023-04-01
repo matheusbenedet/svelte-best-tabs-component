@@ -1,0 +1,23 @@
+{
+  "name": "svelte-best-tabs-component",
+  "version": "1.0.0",
+  "description": "A flexible and easy-to-use Svelte tabs component that allows you to create tabbed interfaces.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheusbenedet/svelte-best-tabs-component.git"
+  },
+  "keywords": [
+    "svelte",
+    "tabs",
+    "svelte-tabs"
+  ],
+  "author": "@matheusbenedet",
+  "license": "MIT",
+  "dependencies": {
+    "svelte": "^3.58.0"
+  }
+}
